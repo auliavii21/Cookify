@@ -42,13 +42,13 @@
 <h1>Landscape</h1>
 
 <h2>Home</h2>
-<img src="https://github.com/auliavii21/Cookify/blob/master/landscape-lightmode-home.jpg" alt="Home Landscape" width="150" height="300">
+<img src="https://github.com/auliavii21/Cookify/blob/master/landscape-lightmode-home.jpg" alt="Home Landscape"  height="180">
 
 <h2>Category</h2>
-<img src="https://github.com/auliavii21/Cookify/blob/master/landscape-category-breakfast.jpg" alt="Category Landscape" width="150" height="300">
+<img src="https://github.com/auliavii21/Cookify/blob/master/landscape-category-breakfast.jpg" alt="Category Landscape"  height="180">
 
 <h2>Favorite</h2>
-<img src="https://github.com/auliavii21/Cookify/blob/master/landscape-darkmode-favorites.jpg" alt="Favorite Landscape" width="150" height="300">
+<img src="https://github.com/auliavii21/Cookify/blob/master/landscape-darkmode-favorites.jpg" alt="Favorite Landscape"  height="180">
 
 <h2>Recipe</h2>
-<img src="https://github.com/auliavii21/Cookify/blob/master/landscape-darkmode-recipe.jpg" alt="Recipe Landscape" width="150" height="300">
+<img src="https://github.com/auliavii21/Cookify/blob/master/landscape-darkmode-recipe.jpg" alt="Recipe Landscape"  height="180">
