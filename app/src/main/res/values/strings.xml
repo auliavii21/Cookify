@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cookify</string>
+
+    <!-- Home & Search -->
+    <string name="search_hint">Search recipe...</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_results">No results</string>
+
+    <!-- Categories -->
+    <string name="categories">Categories</string>
+    <string name="select_category">Select a category</string>
+
+    <!-- Recipe Card -->
+    <string name="view_recipe">View Recipe</string>
+    <string name="add_favorite">Add to Favorites</string>
+    <string name="favorited">Favorited</string>
+
+    <!-- Detail Screen -->
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="view_youtube">Watch on YouTube</string>
+
+    <!-- Favorites Screen -->
+    <string name="no_favorites">No favorites yet</string>
+    <string name="remove_favorite">Remove</string>
+
+    <!-- Error / Loading -->
+    <string name="loading">Loading...</string>
+    <string name="error_load">Failed to load data</string>
+    <string name="retry">Retry</string>
+
+    <!-- Menu / Landscape -->
+    <string name="menu">Menu</string>
+    <string name="open_menu">Open Menu</string>
+    <string name="close_menu">Close Menu</string>
+</resources>

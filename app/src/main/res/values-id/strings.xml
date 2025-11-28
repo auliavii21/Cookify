@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cookify</string>
+
+    <!-- Home & Search -->
+    <string name="search_hint">Cari resep...</string>
+    <string name="search">Cari</string>
+    <string name="favorites">Favorit</string>
+    <string name="no_results">Tidak ada hasil</string>
+
+    <!-- Categories -->
+    <string name="categories">Kategori</string>
+    <string name="select_category">Pilih kategori</string>
+
+    <!-- Recipe Card -->
+    <string name="view_recipe">Lihat Resep</string>
+    <string name="add_favorite">Tambah ke Favorit</string>
+    <string name="favorited">Sudah difavoritkan</string>
+
+    <!-- Detail Screen -->
+    <string name="ingredients">Bahan-bahan</string>
+    <string name="instructions">Instruksi Memasak</string>
+    <string name="view_youtube">Lihat di YouTube</string>
+
+    <!-- Favorites Screen -->
+    <string name="no_favorites">Belum ada favorit</string>
+    <string name="remove_favorite">Hapus dari Favorit</string>
+
+    <!-- Error / Loading -->
+    <string name="loading">Memuat...</string>
+    <string name="error_load">Gagal memuat data</string>
+    <string name="retry">Coba Lagi</string>
+
+    <!-- Menu / Landscape -->
+    <string name="menu">Menu</string>
+    <string name="open_menu">Buka Menu</string>
+    <string name="close_menu">Tutup Menu</string>
+</resources>
